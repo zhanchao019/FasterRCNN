@@ -1,0 +1,31 @@
+<annotation>
+	<folder>voc2012</folder>
+	<filename>2012_000051.jpg</filename>
+	<rawname>4623-4-155.jpg</rawname>
+	<source>
+		<annotation>PASCAL VOC2012</annotation>
+		<database>L</database>
+		<image>L</image>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1489</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>L</name>
+		<pose>Unspecified</pose>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>1202</ymin>
+			<xmax>857</xmax>
+			<ymax>1216</ymax>
+		</bndbox>
+		<point>
+			<x>850</x>
+			<y>1209</y>
+		</point>
+	</object>
+</annotation>
